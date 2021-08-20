@@ -1,0 +1,6 @@
+#if value = True, software is being used with consent of the author
+#
+#Licences:
+
+Firma A = True
+Firma B = False
